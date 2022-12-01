@@ -1,0 +1,10 @@
+#div{
+    width: 200px;
+    height: 200px;
+    background-size: 100% 100%;
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/613901352516528420/6229A9820097690749446CAC4B05EDA4234D4BC7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false);
+ position: absolute;
+}
+body{
+    background-color: black;
+}
